@@ -20,4 +20,4 @@
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="40" />
 </div>
 
-<img src="https://osegredo.com.br/wp-content/uploads/2023/09/27-3.jpg.webp"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJShM37UFD1B7XFQGxnR5HGqnRyrTy1brgfA&s"/>
