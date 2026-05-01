@@ -2,11 +2,13 @@
 "# pedrojipash-design"  
 # Olá,eu sou Pedro Henrique 👋
 
+
 **💻Aprendendo a Programar**  
 - Estudando no Sonho Meu**.
 - Nasci no Brasil 🇧🇷.
 - Estudante de Análise e Desenvolvimento de Sistemas na Fundação Jicred
-- 
+
+  
 **🎯 Interesses**  
 - Tocar musica 
 - Fazer Teatro
