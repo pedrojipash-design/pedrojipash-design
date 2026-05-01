@@ -10,9 +10,9 @@
 
   
 **🎯 Interesses**  
-- Tocar musica 
+- Tocar Musica 
 - Fazer Teatro
-- Fazer taekwondo
+- Fazer Taekwondo
 - Curso de Programação
 
 
