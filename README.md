@@ -9,7 +9,7 @@
 - 
 **🎯 Interesses**  
 - Tocar musica 
-- Jogar bets
+- Fazer Teatro
 - Fazer taekwondo
 - Curso de Programação
 
