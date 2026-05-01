@@ -20,4 +20,4 @@
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="40" />
 </div>
 
-<img src="https://pbs.twimg.com/media/EXmABmGWkAApOqx.jpg"/>
+<img src="https://pbs.twimg.com/profile_images/1405169035621191683/qFoSj-U1_400x400.jpg"/>
